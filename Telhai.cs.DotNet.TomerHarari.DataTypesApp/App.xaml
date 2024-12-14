@@ -1,0 +1,9 @@
+﻿<Application x:Class="Telhai.cs.DotNet.TomerHarari.DataTypesApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Telhai.cs.DotNet.TomerHarari.DataTypesApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

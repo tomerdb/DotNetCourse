@@ -1,0 +1,27 @@
+﻿<Window x:Class="Telhai.cs.DotNet.TomerHarari.WindowApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Telhai.cs.DotNet.TomerHarari.WindowApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+        <Grid>
+                <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="3*"/>
+                        <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.ColumnSpan="3" Background="AliceBlue" FontSize="25" Padding="7" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" TextWrapping="Wrap" Text="OOP Demos" VerticalAlignment="Top"/>
+                <StackPanel Background="Beige" Margin="5" Grid.Row="1" Grid.Column="0">
+                        <Button Name="btnTestTypes" Content="Test Types" Margin="10,10,10,5" Click="BtnTestTypes_OnClick"/>
+                        <Button Name="btn2" Content="" Margin="10,0,10,5"/>
+                        <Button Name="btn3" Content="" Margin="10,0,10,5"/>
+                </StackPanel>
+                <TextBox Name="txtLogBox" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Background="WhiteSmoke" TextWrapping="Wrap"/>
+        </Grid>
+</Window>

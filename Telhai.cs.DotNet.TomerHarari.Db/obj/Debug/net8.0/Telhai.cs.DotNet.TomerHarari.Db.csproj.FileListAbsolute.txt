@@ -1,0 +1,15 @@
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.deps.json
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.pdb
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.pdb
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.csproj.AssemblyReference.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.AssemblyInfoInputs.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.AssemblyInfo.cs
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.csproj.CoreCompileInputs.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.c.35D829A2.Up2Date
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\refint\Telhai.cs.DotNet.TomerHarari.Db.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Db.pdb
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Db\obj\Debug\net8.0\ref\Telhai.cs.DotNet.TomerHarari.Db.dll

@@ -1,0 +1,4 @@
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\DataTypes.App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\DataTypes.App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\DataTypes.App\obj\Debug\net8.0-windows\Telhai.cs.DotNet.TomerHarari.DataTypesApp_MarkupCompile.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\DataTypes.App\obj\Debug\net8.0-windows\Telhai.cs.DotNet.TomerHarari.DataTypesApp_MarkupCompile.lref

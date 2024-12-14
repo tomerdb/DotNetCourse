@@ -1,0 +1,16 @@
+﻿<Window x:Class="DataTypes.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataTypes.App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Button  Padding="10,0,10,0" Name="test" FontSize="20" Content="AddPoint" Canvas.Left="510" Canvas.Top="23" HorizontalAlignment="Left" VerticalAlignment="Top" Click="test_Click"/>
+        <TextBox Name="txtLogBox"  TextWrapping="Wrap" FontSize="20" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"  Canvas.Left="58"  Text="" Canvas.Top="70" Width="692" Height="309" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <TextBox Canvas.Left="92" FontSize="20" TextWrapping="Wrap" Text="X:" Canvas.Top="36" Width="120" TextChanged="TextBox_TextChanged"/>
+        <TextBox Canvas.Left="280" FontSize="20" TextWrapping="Wrap" Text="Y:" Canvas.Top="36" Width="120" TextChanged="TextBox_TextChanged" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+    </Canvas>
+
+</Window>

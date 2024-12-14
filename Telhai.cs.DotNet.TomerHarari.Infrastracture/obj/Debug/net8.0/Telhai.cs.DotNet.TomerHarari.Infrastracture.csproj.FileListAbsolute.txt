@@ -1,0 +1,11 @@
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.deps.json
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\bin\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.pdb
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.AssemblyInfo.cs
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\refint\Telhai.cs.DotNet.TomerHarari.Infrastracture.dll
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\Telhai.cs.DotNet.TomerHarari.Infrastracture.pdb
+C:\Users\tomer\source\repos\Telhai.cs.DotNet.TomerHarari.App\Telhai.cs.DotNet.TomerHarari.Infrastracture\obj\Debug\net8.0\ref\Telhai.cs.DotNet.TomerHarari.Infrastracture.dll
